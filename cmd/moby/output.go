@@ -12,8 +12,8 @@ import (
 )
 
 const (
-	bios = "linuxkit/aarch64/mkimage-iso-bios:e5060837446318cc741266b8897a4dadc599105d"
-	efi  = "linuxkit/mkimage-iso-efi:5c2fc616bde288476a14f4f6dd0d273a66832822@sha256:876ef47ec2b30af40e70f1e98f496206eb430915867c4f9f400e1af47fd58d7c"
+	bios = "linuxkit/aarch64/mkimage-iso-bios:afc9d3470557101f53aed9784b5215f8cc05a029"
+	efi  = "linuxkit/aarch64/mkimage-iso-efi:29204397d5128dbe6df31d0187fd706239b0f862"
 	gcp  = "linuxkit/mkimage-gcp:46716b3d3f7aa1a7607a3426fe0ccebc554b14ee@sha256:18d8e0482f65a2481f5b6ba1e7ce77723b246bf13bdb612be5e64df90297940c"
 	img  = "linuxkit/mkimage-img-gz:eb85aac97f716ad8b8e7e593de3378e740ef2eeb@sha256:f1fb2368765a8ba6d1edfb073565550ae98486fb4943fbeb7d05357e5ba9969d"
 	qcow = "linuxkit/mkimage-qcow:69890f35b55e4ff8a2c7a714907f988e57056d02@sha256:f89dc09f82bdbf86d7edae89604544f20b99d99c9b5cabcf1f93308095d8c244"
