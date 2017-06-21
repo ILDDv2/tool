@@ -15,7 +15,7 @@ const (
 	bios = "linuxkit/aarch64/mkimage-iso-bios:afc9d3470557101f53aed9784b5215f8cc05a029"
 	efi  = "linuxkit/aarch64/mkimage-iso-efi:29204397d5128dbe6df31d0187fd706239b0f862"
 	gcp  = "linuxkit/mkimage-gcp:46716b3d3f7aa1a7607a3426fe0ccebc554b14ee@sha256:18d8e0482f65a2481f5b6ba1e7ce77723b246bf13bdb612be5e64df90297940c"
-	img  = "linuxkit/mkimage-img-gz:eb85aac97f716ad8b8e7e593de3378e740ef2eeb@sha256:f1fb2368765a8ba6d1edfb073565550ae98486fb4943fbeb7d05357e5ba9969d"
+	img  = "linuxkit/aarch64/mkimage-img-gz:dcd6839dc5ee1c67e5ddb2de308ed8a355f4bc5d"
 	qcow = "linuxkit/mkimage-qcow:69890f35b55e4ff8a2c7a714907f988e57056d02@sha256:f89dc09f82bdbf86d7edae89604544f20b99d99c9b5cabcf1f93308095d8c244"
 	vhd  = "linuxkit/mkimage-vhd:a04c8480d41ca9cef6b7710bd45a592220c3acb2@sha256:ba373dc8ae5dc72685dbe4b872d8f588bc68b2114abd8bdc6a74d82a2b62cce3"
 	vmdk = "linuxkit/mkimage-vmdk:182b541474ca7965c8e8f987389b651859f760da@sha256:99638c5ddb17614f54c6b8e11bd9d49d1dea9d837f38e0f6c1a5f451085d449b"
